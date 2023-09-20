@@ -6,13 +6,13 @@ module.exports = {
     'Praneeth Reddy Penugonda, Praneeth Reddy, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: '',
+  googleVerification: '',
   name: 'Praneeth Reddy Penugonda',
   location: 'San Jose, United States',
   email: 'praneethreddypenugonda@gmail.com',
   github: 'https://github.com/PenugondaPraneethReddy',
-  twitterHandle: '@chandrikadeb7',
+  twitterHandle: '@thepenugonda',
   socialMedia: [
     {
       name: 'GitHub',

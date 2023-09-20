@@ -1,12 +1,12 @@
 {
   "name": "praneeth-portfolio",
-  "description": "Personal Website V2",
+  "description": "Personal Website",
   "version": "1.0.0",
   "author": "Praneeth Reddy Penugonda <praneethreddypenugonda@gmail.com>",
   "homepage": "https://PenugondaPraneethReddy.github.io/praneeth-portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/PenugondaPraneethReddy/praneeth-portfolio"
   },
   "keywords": [
     "gatsby"
@@ -14,7 +14,7 @@
   "license": "MIT",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gatsby build && gh-pages -d public -m 'Deploy new portfolio version'",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
