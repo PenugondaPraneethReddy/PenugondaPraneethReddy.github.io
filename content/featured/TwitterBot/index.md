@@ -1,14 +1,17 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+title: 'Automated Book Locator using Pi'
+cover: 'auto_pi.png'
+github: 'https://github.com/PenugondaPraneethReddy/Automated-Book-Finder'
+# external: 'https://twitter.com/girlscript_bot'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - HTML
+  - Bootstrap
+  - PHP
+  - jQuery
+  - JavaScript
+  - Django 
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+Engineered a dynamic [web app](https://github.com/PenugondaPraneethReddy/Automated-Book-Finder) utilizing Cloudflare, Nginx, and the Django Rest Framework for the backend, with PHP and jQuery for the frontend. Implemented Raspberry Pi communication via DRF to locate books and trigger lights, showcasing expertise in creating robust and testable code.

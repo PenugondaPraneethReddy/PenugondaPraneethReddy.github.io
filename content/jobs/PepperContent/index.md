@@ -1,15 +1,15 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+date: '2022-01-10'
+title: 'Software Developer Intern'
+company: 'MobiSprint Consulting'
+range: 'Aug 2021 - Jan 2022'
+url: 'https://mobisprint.com/'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
+- Worked to build a web application called [Sunstone](https://sunstone.in/) – an online learning application for students.
 
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
+- Increased clients’ earnings by 30 to 40% by implementing “click to chat” and “click to call” features easily accessible to the users on the homepage.
 
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
+- Reduced time and manual effort by expeditiously implementing redux for a new login, reframing google-login architecture, connecting client-side endpoints and creating effective redirects and routes using MongoDB.
 
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- View [CERTIFICATE](https://drive.google.com/file/d/1RuVISxtVhccUZz8l459R1IcH_NhVZlYD/view?usp=sharing).

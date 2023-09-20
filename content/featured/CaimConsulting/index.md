@@ -1,16 +1,18 @@
 ---
 date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+title: 'Application for Parking Slot in VIT'
+cover: 'vit-parking.png'
+github: 'https://github.com/PenugondaPraneethReddy/SE_PROJECT/tree/main'
+# external: 'https://caimconsulting.in/'
 tech:
   - HTML
   - CSS
   - Javascript
   - Bootstrap
+  - SQL
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Led a team in creating an innovative [online smart parking system](https://github.com/PenugondaPraneethReddy/SE_PROJECT/tree/main), addressing issues of inappropriate parking and
+overcrowding. Implemented an iterative waterfall model for design and construction, providing users seamless access to available parking spaces at VIT. Demonstrated strong collaborative skills in a dynamic environment.

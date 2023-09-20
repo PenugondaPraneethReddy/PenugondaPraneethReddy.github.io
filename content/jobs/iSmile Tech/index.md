@@ -1,11 +1,11 @@
 ---
-date: '2020-07-15'
-title: 'Technical Writer'
-company: 'iSmile Tech'
-range: 'July 2020 - August 2020'
+date: '2020-04-10'
+title: 'Web Developer Intern'
+company: 'Oxylator Technologies'
+range: 'Jan 2020 - Apr 2020'
 url: 'https://www.ismiletechnologies.com/'
 ---
 
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
-- View [CERTIFICATE](https://drive.google.com/file/d/1xc4SHoXSFWmLQfwBeYq7WwB5EjXsqMV9/view?usp=sharing) and [PERFORMANCE REVIEW REPORT](https://drive.google.com/file/d/1FVNB7SLHLwWB_QOSZFxIiSdy8O6Xbj2w/view?usp=sharing)
+- Collaborated with a team of five people to build ’Oxycademy’, an educational consultant who provides online courses and certifications.
+- Increased user experience by 25% by designing and developing a login page with web API, a dashboard with a search bar, and a course page.
+- View [CERTIFICATE](https://drive.google.com/file/d/1RP1H582F8bCv918OkWCUa1QvNjBsunXI/view?usp=sharing)
