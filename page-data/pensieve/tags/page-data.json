@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-pensieve-tags-js",
     "path": "/pensieve/tags/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Praneeth Reddy Penugonda | Graduate student | full stack developer"}},"allMarkdownRemark":{"group":[{"fieldValue":"Docker","totalCount":1},{"fieldValue":"WordPress","totalCount":2}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Praneeth Reddy Penugonda | MSSE Graduate Student @ SJSU| full stack developer"}},"allMarkdownRemark":{"group":[{"fieldValue":"Docker","totalCount":1},{"fieldValue":"WordPress","totalCount":2}]}},"pageContext":{}},
     "staticQueryHashes": ["3115057458"]}
