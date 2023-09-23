@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Praneeth Reddy Penugonda | Graduate student | full stack developer',
+  siteTitle: 'Praneeth Reddy Penugonda | MSSE Graduate Student @ SJSU| full stack developer',
   siteDescription:
     'Praneeth Reddy Penugonda is a Graduate student at san jose state university, who loves learning new things and helping tech beginners.',
   siteKeywords:
