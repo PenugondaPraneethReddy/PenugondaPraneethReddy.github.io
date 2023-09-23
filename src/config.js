@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: 'Praneeth Reddy Penugonda | Graduate | Content Freelancer',
+  siteTitle: 'Praneeth Reddy Penugonda | Graduate student | full stack developer',
   siteDescription:
-    'Praneeth Reddy Penugonda is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Praneeth Reddy Penugonda is a Graduate student at san jose state university, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Praneeth Reddy Penugonda, Praneeth Reddy, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Praneeth Reddy Penugonda, Praneeth Reddy, software developer, software engineer, summer internship, full stack developer,',
+  siteUrl: 'https://penugondapraneethreddy.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',

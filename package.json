@@ -1,12 +1,12 @@
 {
+  "homepage": "https://penugondapraneethreddy.github.io/PenugondaPraneethReddy.github.io",
   "name": "praneeth-portfolio",
   "description": "Personal Website",
   "version": "1.0.0",
   "author": "Praneeth Reddy Penugonda <praneethreddypenugonda@gmail.com>",
-  "homepage": "https://PenugondaPraneethReddy.github.io/praneeth-portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PenugondaPraneethReddy/praneeth-portfolio"
+    "url": "https://github.com/PenugondaPraneethReddy/PenugondaPraneethReddy.github.io"
   },
   "keywords": [
     "gatsby"
