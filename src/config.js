@@ -22,10 +22,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/praneeth-reddy-penugonda-89055b17b/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/chandrikadeb7',
-    // },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/the_penugonda/',
