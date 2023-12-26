@@ -11,6 +11,6 @@ tech:
 showInProjects: true
 ---
 
-Developed a comprehensive end-to-end online movie ticket booking platform using Agile/Scrum methodologies showcasing expertise in developing high-performance, reliable, and maintainable code.
+Led full-stack development of a movie ticket booking site using Node.js, MongoDB, and React, collaborating with a 4-member Agile team, implementing CRUD operations in the admin dashboard, utilizing RESTful APIs, hosting on AWS EC2 with autoscaling and load balancing, and deploying frontend on Vercel.
 
 <!-- Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/). -->
