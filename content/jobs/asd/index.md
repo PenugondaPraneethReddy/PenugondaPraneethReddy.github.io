@@ -1,13 +1,11 @@
 ---
 date: '2022-07-26'
-title: 'Alexa Skill Developer Intern'
+title: 'Software Development Engineer Intern'
 company: 'MobiSprint Consulting'
 range: 'Apr 2022 - Jul 2022'
 url: 'https://mobisprint.com/'
 ---
 
-- Reduced the clients’ effort by 20% by giving effective utterances with specific variables for the agent.
+- Utilized the MVC framework for application development to distribute tasks among Models, Views, and Controllers. Additionally, it facilitates stateless development.
 
-- Decreased the manual efforts by 85% by testing the intent, verifying the JSON I/O file thoroughly, working with the backend team and creating a few slots with Node.js
-
-- View, [CERTIFICATE](https://drive.google.com/file/d/1r1yBpsn6kRaVxFAenMpplgiW8YqfPMIE/view?usp=sharing).
+- Implemented advanced automated test cases using POM pattern, Cucumber, and TestNG to support Behavior-driven development (BDD). Applied DevOps and Agile methodologies to containerize and deploy microservices in a Kubernetes cluster via a Gitlab CI/CD pipeline, achieving a 30% improvement in system response times.

@@ -1,11 +1,13 @@
 ---
 date: '2020-04-10'
-title: 'Web Developer Intern'
+title: 'Software Engineering Intern'
 company: 'Oxylator Technologies'
-range: 'Jan 2020 - Apr 2020'
-url: 'https://www.ismiletechnologies.com/'
+range: 'May 2020 - Sept. 2020'
+url: 'https://oxylatortechnologies.com/'
 ---
 
-- Collaborated with a team of five people to build ’Oxycademy’, an educational consultant who provides online courses and certifications.
-- Increased user experience by 25% by designing and developing a login page with web API, a dashboard with a search bar, and a course page.
-- View [CERTIFICATE](https://drive.google.com/file/d/1RP1H582F8bCv918OkWCUa1QvNjBsunXI/view?usp=sharing)
+-  Built a microservices-driven e-commerce platform with Node.js, Express.js, and GraphQL, achieving a 30% boost in overall performance and speed.
+-  Developed testing frameworks utilizing Selenium, automating the testing process and leading to a 25% decrease in bugs.
+-  Incorporated Apache Kafka with the ELK (Elasticsearch, Logstash, Kibana) stack for test result and log analysis.
+-  Dockerized and deployed a standalone recommendation system on Kubernetes, achieving a 30% faster response and 20% better resource utilization via horizontal autoscaling and performance optimization.
+-  Participated in daily stand-up meetings, collaborated with the QA team, and employed Agile methodologies throughout the software development life cycle (SDLC)

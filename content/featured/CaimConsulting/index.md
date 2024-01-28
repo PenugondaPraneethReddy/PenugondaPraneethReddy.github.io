@@ -5,10 +5,10 @@ cover: 'consistent-Hashing.jpg'
 github: 'https://github.com/cluster-craftsmen/teamproject-cluster-craftsmen'
 # external: 'https://caimconsulting.in/'
 tech:
+  - TypeScript
   - Python
   - Flask
   - MongoDB
-  - Next.js
   - Docker
 
 showInProjects: true

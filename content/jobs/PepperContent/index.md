@@ -1,15 +1,13 @@
 ---
 date: '2022-01-10'
-title: 'Software Developer Intern'
+title: 'Software Engineering Intern'
 company: 'MobiSprint Consulting'
-range: 'Aug 2021 - Jan 2022'
+range: 'Aug. 2021 - Jan. 2022'
 url: 'https://mobisprint.com/'
 ---
 
-- Worked to build a web application called [Sunstone](https://sunstone.in/) – an online learning application for students.
-
-- Increased clients’ earnings by 30 to 40% by implementing “click to chat” and “click to call” features easily accessible to the users on the homepage.
-
-- Reduced time and manual effort by expeditiously implementing redux for a new login, reframing google-login architecture, connecting client-side endpoints and creating effective redirects and routes using MongoDB.
-
-- View [CERTIFICATE](https://drive.google.com/file/d/1RuVISxtVhccUZz8l459R1IcH_NhVZlYD/view?usp=sharing).
+- Enhanced a responsive and cross-compatible educational platform using the MERN stack, Substituting an outdated application led to a 35% improvement in performance optimization.
+- Guided UI mockup translation, integrated third-party React libraries, and managed Redux for a user-friendly platform.
+- Implemented the educational data migration of 8 tables, and 4,500,000 records from MySQL to MongoDB, resulting in a 30% reduction in response time.
+- Created customized Jenkins pipeline scripts for building, testing Docker images, and deploying updates, resulting in a 25% enhancement in delivery efficiency.
+- Enforced Test-Driven Development(TDD) in backend development for reliablity, reducing manual work to 40%.
