@@ -1,13 +1,14 @@
 ---
 date: '2020-04-10'
-title: 'Software Engineering Intern'
+title: 'Software Engineer Intern '
 company: 'Oxylator Technologies'
-range: 'May 2020 - Sept. 2020'
+range: 'May 2021 - Aug. 2021'
 url: 'https://oxylatortechnologies.com/'
 ---
 
--  Built a microservices-driven e-commerce platform with Node.js, Express.js, and GraphQL, achieving a 30% boost in overall performance and speed.
--  Developed testing frameworks utilizing Selenium, automating the testing process and leading to a 25% decrease in bugs.
--  Incorporated Apache Kafka with the ELK (Elasticsearch, Logstash, Kibana) stack for test result and log analysis.
--  Dockerized and deployed a standalone recommendation system on Kubernetes, achieving a 30% faster response and 20% better resource utilization via horizontal autoscaling and performance optimization.
--  Participated in daily stand-up meetings, collaborated with the QA team, and employed Agile methodologies throughout the software development life cycle (SDLC)
+-  Collaborated with cross-functional teams to launch a subscription model using PayPal for seamless payments and
+MongoDB for data storage, strategically propelling revenue growth by 15% and elevating user engagement.
+
+- Incorporated Apache Kafka with the ELK (Elasticsearch, Logstash, Kibana) stack for test results and log analysis.
+- Spearheaded Auth0 and Okta for API security, employed Redis for enhanced data access speed by 20%.
+- Involved in daily stand-ups, and employed Agile methodologies throughout the software development life cycle.

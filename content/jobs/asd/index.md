@@ -1,11 +1,18 @@
 ---
 date: '2022-07-26'
-title: 'Software Development Engineer Intern'
+title: 'Software Engineer Intern'
 company: 'MobiSprint Consulting'
-range: 'Apr 2022 - Jul 2022'
+range: 'Apr 2023 - Aug 2023'
 url: 'https://mobisprint.com/'
 ---
 
-- Utilized the MVC framework for application development to distribute tasks among Models, Views, and Controllers. Additionally, it facilitates stateless development.
+- Enhanced a cross-compatible educational platform using the MERN stack, Substituting a legacy application and integrating third-party React libraries with Redux management led to a 35% improvement in performance.
 
-- Implemented advanced automated test cases using POM pattern, Cucumber, and TestNG to support Behavior-driven development (BDD). Applied DevOps and Agile methodologies to containerize and deploy microservices in a Kubernetes cluster via a Gitlab CI/CD pipeline, achieving a 30% improvement in system response times.
+
+- Executed a MySQL to MongoDB migration for 8 tables and 4.5 million records, reducing response time by 30%.
+
+- Created customized Jenkins CI/CD pipeline scripts for building, testing Docker images, and deploying microservices in a Kubernetes cluster, resulting in a 25% enhancement in delivery efficiency.
+
+- Implemented Selenium-based testing frameworks, automating the testing process and reducing bugs by 25%.
+
+- Engaged as a coordinator for 5+ junior interns, provided mentorship and guidance, and monitored their progress.
